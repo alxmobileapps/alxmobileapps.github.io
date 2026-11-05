@@ -1,8 +1,6 @@
 # Circus Clowns — Terms of Service
 
-**Review draft · Prepared 5 November 2026 · Version 1.0**
-
-This is a proposed document for the developer's review. It is not yet adopted or in force. The effective date will be recorded when the developer approves and publishes it as the app's terms.
+**Effective 5 November 2026 · Version 1.0**
 
 App identifier: com.alxmobileapps.circusclown
 
